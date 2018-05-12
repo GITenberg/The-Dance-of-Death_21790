@@ -1,0 +1,68 @@
+_repo: The-Dance-of-Death_21790
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+  engineer:
+    agent_name: Lützelburger, Hans
+    aliases:
+    - Franck, Hans
+    - Lutzelburger, Hans
+    - Leuczelburger, Hans
+    deathdate: 1526
+    gutenberg_agent_id: '36622'
+    url: http://www.gutenberg.org/2009/agents/36622
+  illustrator:
+    agent_name: Holbein, Hans
+    aliases:
+    - Holbein, Hans, der Jüngere
+    - Holbein, Hans, the Younger
+    birthdate: 1497
+    deathdate: 1543
+    gutenberg_agent_id: '24893'
+    url: http://www.gutenberg.org/2009/agents/24893
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger
+    - http://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Vauzelles, Jean de
+    aliases:
+    - Vauzèle, Jean de
+    - De Vauzèle, Jean
+    - De Vauzelles, Jean
+    - Vauzele, Jean de
+    gutenberg_agent_id: '36623'
+    url: http://www.gutenberg.org/2009/agents/36623
+  - agent_name: Corrozet, Gilles
+    alias: Corrozet, Aegidius
+    birthdate: 1510
+    deathdate: 1568
+    gutenberg_agent_id: '33813'
+    url: http://www.gutenberg.org/2009/agents/33813
+description: The French quatrains have been attributed to Jean de Vauzelles or to
+  Gilles Corrozet.
+gutenberg_issued: '2007-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Dance of death'
+- !lcc 'NE'
+- !lcsh 'Holbein, Hans, 1497-1543'
+title: The Dance of Death
+url: http://www.gutenberg.org/ebooks/21790
